@@ -21,7 +21,7 @@ export default function MainContainer() {
       }}
     >
       <Tab.Screen
-        name="Home"
+        name="LifeSaver"
         component={Home}
         options={{
           tabBarLabel: 'Home',
